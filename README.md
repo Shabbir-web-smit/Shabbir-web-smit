@@ -89,7 +89,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [[**Project One**](https://shabbir-web-smit.github.io/assignment_10/)] | My First Prothon Website | `HTML` `CSS` |
+| [**Project One**](https://shabbir-web-smit.github.io/assignment_10/) | My First Prothon Website | `HTML` `CSS` |
 | [**Project Two**](https://github.com/YOUR_USERNAME/project-two) | Yahan apne project ki short description likhein | `Next.js` `Tailwind` `PostgreSQL` |
 | [**Project Three**](https://github.com/YOUR_USERNAME/project-three) | Yahan apne project ki short description likhein | `Laravel` `MySQL` |
 
